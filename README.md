@@ -15,7 +15,7 @@ A Markdown preview application built using React.js and a markdown library. It a
 
 ## Demo
 
-Include a link or embed a live demo of your Markdown preview application. This could be a hosted version or a link to the repository where others can try it out.
+not live currently 
 
 ## Features
 
